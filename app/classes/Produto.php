@@ -17,3 +17,5 @@ class Produto {
     }
     
 }
+
+// fwrite()
