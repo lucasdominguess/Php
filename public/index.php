@@ -15,4 +15,4 @@ use App\classes\Produto;
 // $monitor = new Produto('teclado',210);
 // $monitor = new Produto('camera',120);
 
-$arquivo = new CriarTxt('d.txt');
+$arquivo = new CriarTxt('e.txt');
