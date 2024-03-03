@@ -1,6 +1,7 @@
 <?php 
 namespace App\classes;
 
+
 class CriarTxt { 
     protected $caminho_arquivo;
     public function __construct($caminho_arquivo) { 

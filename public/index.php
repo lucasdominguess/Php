@@ -12,7 +12,7 @@ use App\classes\Produto;
 // $aluno =new Aluno('rafael','123.587558-88');
 
 // $monitor = new Produto('monitor',750);
-// $monitor = new Produto('teclado',230);
+// $monitor = new Produto('teclado',210);
 // $monitor = new Produto('camera',120);
 
-$arquivo = new CriarTxt('b.txt');
+$arquivo = new CriarTxt('d.txt');

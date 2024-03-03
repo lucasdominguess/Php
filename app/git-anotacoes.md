@@ -18,3 +18,4 @@
 *git clone url repositorio* clona um repositorio existente
 
 
+*git rm -r --cached .git rm -r --cached .* remover cache do git ignore

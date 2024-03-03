@@ -1,5 +1,5 @@
 {
-    "name": "x492420/php_curso",
+    "name": "vendor/lucas",
     "autoload": {
         "psr-4": {
             "App\\": "app/"
