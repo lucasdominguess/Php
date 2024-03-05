@@ -1,4 +1,5 @@
 <?php
+declare(strinct_types =1);
 
 use App\classes\Caneta;
 use App\classes\Escritor;
@@ -9,3 +10,5 @@ $escritor = new Escritor('lucas');
 $caneta =new Caneta('bic');
 $escritor->setCaneta($caneta);
 $escritor->getCaneta()->escrever();
+
+
